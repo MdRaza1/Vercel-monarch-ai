@@ -1,0 +1,9 @@
+{
+  "name": "monarch-groq-chatbot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MONARCH website with secure server-side Groq AI chatbot for Vercel",
+  "engines": {
+    "node": ">=18"
+  }
+}
